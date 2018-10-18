@@ -8,12 +8,12 @@ permalink: /team/
 
 # Group Members
 
- **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ <!-- **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
-Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
+<Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).-->
 
-## Staff
+## Principle Investigator
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -28,29 +28,29 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}<br>email: <{{ member.email }}></i>
   <ul style="overflow: hidden">
-  
+
   {% if member.number_educ == 1 %}
   <li> {{ member.education1 }} </li>
   {% endif %}
-  
+
   {% if member.number_educ == 2 %}
   <li> {{ member.education1 }} </li>
   <li> {{ member.education2 }} </li>
   {% endif %}
-  
+
   {% if member.number_educ == 3 %}
   <li> {{ member.education1 }} </li>
   <li> {{ member.education2 }} </li>
   <li> {{ member.education3 }} </li>
   {% endif %}
-  
+
   {% if member.number_educ == 4 %}
   <li> {{ member.education1 }} </li>
   <li> {{ member.education2 }} </li>
   <li> {{ member.education3 }} </li>
   <li> {{ member.education4 }} </li>
   {% endif %}
- 
+
   {% if member.number_educ == 5 %}
   <li> {{ member.education1 }} </li>
   <li> {{ member.education2 }} </li>
@@ -58,7 +58,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
   <li> {{ member.education4 }} </li>
   <li> {{ member.education5 }} </li>
   {% endif %}
-  
+
   </ul>
 </div>
 
@@ -78,7 +78,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 
 
-## Master and Bachelor Students 
+## Graduate Students and Postdocs
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
@@ -92,29 +92,29 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}<br>email: <{{ member.email }}></i>
   <ul style="overflow: hidden">
-  
+
   {% if member.number_educ == 1 %}
   <li> {{ member.education1 }} </li>
   {% endif %}
-  
+
   {% if member.number_educ == 2 %}
   <li> {{ member.education1 }} </li>
   <li> {{ member.education2 }} </li>
   {% endif %}
-  
+
   {% if member.number_educ == 3 %}
   <li> {{ member.education1 }} </li>
   <li> {{ member.education2 }} </li>
   <li> {{ member.education3 }} </li>
   {% endif %}
-  
+
   {% if member.number_educ == 4 %}
   <li> {{ member.education1 }} </li>
   <li> {{ member.education2 }} </li>
   <li> {{ member.education3 }} </li>
   <li> {{ member.education4 }} </li>
   {% endif %}
-  
+
   </ul>
 </div>
 
@@ -132,10 +132,10 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% endif %}
 
 
-## Alumni
+## Past Members
 <table align="center" style="width:100%">
 <tr><th>Visitors</th>
-    <th>Master Students</th> 
+    <th>Master Students</th>
     <th>Bachelor Students</th>
   </tr>
   <tr>
@@ -179,12 +179,3 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
     <td>Daniëlle van Klink, Spring 2016</td>
   </tr>
 </table>
-
-## Administrative Support
-<a href="mailto:Rijsewijk@Physics.LeidenUniv.nl">Ellie van Rijsewijk</a> is helping us (and other groups) with administration.
-
-
-
-
-
-
