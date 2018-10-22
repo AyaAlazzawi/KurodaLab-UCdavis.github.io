@@ -13,7 +13,7 @@ permalink: /team/
 
 <Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).-->
 
-## Principle Investigator
+## Group Members
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -78,7 +78,7 @@ permalink: /team/
 
 
 
-## Graduate Students and Postdocs
+## Undergraduate Students
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
