@@ -11,7 +11,7 @@ permalink: /publications/
 
 ## Highlights
 
-(For a full list see [below](#full-list) or go to [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/?term=kuroda+mj)
+(For a full list see [below](#full-list) or go to [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/?term=kuroda+mj))
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
