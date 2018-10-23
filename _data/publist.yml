@@ -7,3 +7,33 @@
     display:  J Immunol June 15, 2018, 200 (12) 4059-4067
   highlight: 1
   news2:
+
+- title: "Role of Monocyte/Macrophages during HIV/SIV Infection in Adult and Pediatric Acquired Immune Deficiency Syndrome."
+  image: Peds_turnover.jpg
+  description: In this review, we discuss recent data exploring the contribution of monocytes and macrophages to HIV/SIV infection and progression. Furthermore, we highlight the need to further investigate their role in pediatric cases of infection.
+  authors: Kristen M. Merino, Carolina Allers, Elizabeth S. Didier and Marcelo J. Kuroda
+  link:
+    url: https://www.frontiersin.org/articles/10.3389/fimmu.2017.01693/full
+    display: Front. Immunol., 05 December 2017 8, 1693.
+  highlight: 1
+  news2:
+
+- title: "High Turnover of Tissue Macrophages Contributes to Tuberculosis Reactivation in Simian Immunodeficiency Virus-Infected Rhesus Macaques."
+  image: Mtb1.jpeg
+  description: We found that increased monocyte and macrophage turnover and levels of SIV-infected lung macrophages correlated with TB reactivation. All Mtb/SIV-coinfected monkeys exhibited declines in CD4+ T cells regardless of reactivation or latency outcomes, negating lower CD4+ T-cell levels as a primary cause of Mtb reactivation.
+  authors: Marcelo J. Kuroda, Chie Sugimoto, Yanhui Cai, Kristen M. Merino, Smriti Mehra, Mariluz Araínga,Chad J. Roy, Cecily C. Midkiff, Xavier Alvarez, Elizabeth S. Didier, and Deepak Kaushal
+  link:
+    url: https://academic.oup.com/jid/article/217/12/1865/4843840
+    display: The Journal of Infectious Diseases, Volume 217, Issue 12, 25 May 2018, Pages 1865–1874.
+  highlight: 1
+  news2:
+
+- title: "Preferential Destruction of Interstitial Macrophages over Alveolar Macrophages as a Cause of Pulmonary Disease in Simian Immunodeficiency Virus-Infected Rhesus Macaques."
+  image: Lung_SIV.jpg
+  description: We examined the effects of SIV infection on AMs in BAL fluid and IMs in lung tissue of rhesus macaques. SIV infection produced massive cell death of IMs that contributed to lung tissue damage. Conversely, SIV infection induced minimal cell death of AMs, and these cells maintained the lower turnover rate throughout the duration of infection. This indicates that SIV produces lung tissue damage through destruction of IMs, whereas the longer-lived AMs may serve as a virus reservoir to facilitate HIV persistence.
+  authors: Yanhui Cai, Chie Sugimoto, Mariluz Arainga, Cecily C. Midkiff, David Xianhong Liu, Xavier Alvarez, Andrew A. Lackner, Woong-Ki Kim, Elizabeth S. Didier and Marcelo J. Kuroda
+  link:
+    url: http://www.jimmunol.org/content/195/10/4884.long
+    display: J Immunol November 15, 2015, 195 (10) 4884-4891.
+  highlight: 1
+  news2:

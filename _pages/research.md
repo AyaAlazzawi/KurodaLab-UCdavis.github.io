@@ -25,3 +25,4 @@ CD4+ T cell depletion by HIV infection is considered a major cause of tuberculos
 
 ### Immunology of aging
 Our studies have defined groups of NHPs that exhibit putative healthy vs. less healthy aging profiles ([Didier, Sugimoto et al. 2012](https://immunityageing.biomedcentral.com/articles/10.1186/1742-4933-9-25)). Our ongoing studies examine changes in macrophages related to inflammation, apoptosis, and reservoir effects that impact increased susceptibility to infectious diseases during aging using the rhesus macaque model.
+<br><br>
