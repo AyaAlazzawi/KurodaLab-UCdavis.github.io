@@ -1,0 +1,14 @@
+- name: Lourdes Adamson
+  photo: lou.jpg
+  info: Lab Manager
+  email: laadamson@ucdavis.edu
+  number_educ: 2
+  education1:
+  education2:
+
+- name: Andradi Villalobos
+  photo: Andradi.jpg
+  info: SRA II
+  email: avillalobos@ucdavis.edu
+  number_educ: 1
+  education1:

@@ -8,6 +8,8 @@ permalink: /pictures/
 # Pictures
 
 ### Group@TNPRC
-![TNPRC1](/images/TNPRC/Group2017.JPG "TNPRC group")
-![TNPRC4](/images/TNPRC/TNPRC4.JPG "TNPRC group")
-![TNPRC3](/images/TNPRC/TNPRC3.JPG)
+<figure class="fourth">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/TNPRC/Group2017.JPG" style="width: 720px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/TNPRC/TNPRC4.JPG" style="width: 720px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/TNPRC/TNPRC3.JPG" style="width: 720px">
+</figure>

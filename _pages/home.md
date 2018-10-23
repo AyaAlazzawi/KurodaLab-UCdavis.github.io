@@ -46,7 +46,7 @@ permalink: /
   </a>
 </div>
 
-We are an immunology lab at the [CCM](https://ccm.ucdavis.edu/) and [CNPRC](https://cnprc.ucdavis.edu/) @ UC Davis. We aim to 1) Determining the role of monocyte/macrophages in the pathogenesis of infectious diseases, chronic inflammation and aging; 2) Examining the immunology of aging, and; 3) Assessing the roles of macrophages in the pathogenesis of TB using the macaque model of TB/SIV.
+We are an immunology lab at the [CCM](https://ccm.ucdavis.edu/) and [CNPRC](https://cnprc.ucdavis.edu/) at UC Davis. We aim to 1) Determining the role of monocyte/macrophages in the pathogenesis of infectious diseases, chronic inflammation and aging; 2) Examining the immunology of aging, and; 3) Assessing the roles of macrophages in the pathogenesis of TB using the macaque model of TB/SIV.
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/UCdavis.png" style="width: 210px">
