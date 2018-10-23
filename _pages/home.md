@@ -50,6 +50,6 @@ We are an immunology lab at the [CCM](https://ccm.ucdavis.edu/) and [CNPRC](http
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/UCdavis.png" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/CCM.jpg" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/CNPRC.png" style="width: 120px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/CCM.jpg" style="width: 360px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/CNPRC.png" style="width: 360px">
 </figure>
