@@ -1,3 +1,13 @@
+- title: "The level of monocyte turnover predicts disease progression in the macaque model of AIDS."
+  image: Mono_turnover_SIV.png
+  description: Our results show the importance of monocyte/macrophages in the pathogenesis of AIDS and suggest the dynamic changes of the monocyte/macrophages as a new marker for AIDS progression.
+  authors: Atsuhiko Hasegawa, Huining Liu, Binhua Ling, Juan T. Borda, Xavier Alvarez, Chie Sugimoto, Heather Vinet-Oliphant, Woong-Ki Kim, Kenneth C. Williams, Ruy M. Ribeiro, Andrew A. Lackner, Ronald S. Veazey and Marcelo J. Kuroda
+  link:
+    url: http://www.bloodjournal.org/content/114/14/2917
+    display:  Blood 2009 114:2917-2925
+  highlight: 1
+  news2:
+
 - title: "Rapid Turnover and High Production Rate of Myeloid Cells in Adult Rhesus Macaques with Compensations during Aging."
   image: BrdU_labeling.png
   description: We provided a model to understand the dynamics of myeloid cells in humans during homeostasis and how age may impact these properties.
