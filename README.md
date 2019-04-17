@@ -4,4 +4,4 @@ This is the website for Kuroda Lab at UC - Davis and California National Primate
 
 This website is powered by Jekyll and adopted from [Allan Lab Website at Leiden University](http://www.allanlab.org/).
 
-Copyright Kuroda Lab 2018. Code released under the MIT License.
+Copyright Kuroda Lab 2019. Code released under the MIT License.

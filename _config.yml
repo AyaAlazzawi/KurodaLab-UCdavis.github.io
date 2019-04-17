@@ -7,11 +7,13 @@
 
 # Site settings
 title: The Kuroda Lab
-email: zihe@ucdavis.edu
+email: ziyuanhe.hzy@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Kuroda Lab @ UC Davis
+  We are an immunology lab at the Center for Comparative Medicine and California National Primate Research Center (CNPRC) at University of California, Davis.
+  Our studies aim to determine the roles of monocyte/macrophages and neutrophils in innate immune responses and pathogenesis of infectious diseases such as SIV/AIDS, TB, and co-infections using pediatric, adult and aged adult nonhuman primate models.
+
+
 baseurl: ""
 url: ""
 
