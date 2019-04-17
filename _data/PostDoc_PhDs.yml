@@ -1,16 +1,8 @@
-- name: Naofumi Takahashi PhD
+- name: Naofumi Takahashi Ph.D.
   photo: Nao.png
-  info: Post-Doc
+  info: Postdoc
   email: natakahashi@ucdavis.edu
-  number_educ: 2
-  education1:
-  education2:
-
-- name: Kristen Merino PhD
-  photo: Kristen.jpg
-  info: Post-Doc
-  email: kmerino@tulane.edu
-  number_educ: 2
+  number_educ: 0
   education1:
   education2:
 
@@ -18,6 +10,6 @@
   photo: Ziyuan.jpg
   info: PhD Student, started May 2015
   email: zihe@ucdavis.edu
-  number_educ: 2
+  number_educ: 0
   education1: B.S. Huazhong University of Science & Technology, China
   education2: Ph.D. Tulane University

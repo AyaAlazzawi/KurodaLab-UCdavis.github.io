@@ -51,11 +51,11 @@ permalink: /
 </div>
 
 <br><br>
-We are an immunology lab at the [Center for Comparative Medicine](https://ccm.ucdavis.edu/) and [California National Primate Research Center (CNPRC)](https://cnprc.ucdavis.edu/) at University of California, Davis. We aim to 1) Determining the role of monocyte/macrophages in the pathogenesis of infectious diseases, chronic inflammation and aging; 2) Examining the immunology of aging, and; 3) Assessing the roles of macrophages in the pathogenesis of TB using the macaque model of TB/SIV.
+We are an immunology lab at the [Center for Comparative Medicine](https://ccm.ucdavis.edu/) and [California National Primate Research Center (CNPRC)](https://cnprc.ucdavis.edu/) at University of California, Davis. Our studies aim to determine the roles of monocyte/macrophages and neutrophils in innate immune responses and pathogenesis of infectious diseases such as SIV/AIDS, TB, and co-infections using pediatric, adult and aged adult nonhuman primate models.
 
 <br><br>
 <figure class="three">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/UCdavis.png" align="left" style=" width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/CCM.jpg" align="right" style="width: 360px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/CNPRC.png" align="right" style="width: 360px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/UCdavis.png" alt="UC davis logo" align="left" style=" width: 180px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/CCM.jpg" alt="CCM logo" align="top" style="width: 360px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/CNPRC.png" alt="CNPRC logo" align="bottom" style="width: 360px">
 </figure>

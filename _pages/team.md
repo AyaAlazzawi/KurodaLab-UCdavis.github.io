@@ -87,7 +87,7 @@ permalink: /team/
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}<br>email: <{{ member.email }}></i>
+<i>{{ member.info }}<!--   <br>email: <{{ member.email }}></i> -->
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
@@ -151,7 +151,7 @@ permalink: /team/
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}<br>email: <{{ member.email }}></i>
+  <i>{{ member.info }} <!--   <br>email: <{{ member.email }}></i> -->
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
@@ -205,7 +205,7 @@ permalink: /team/
 
 ## Undergraduate Students
 {% assign number_printed = 0 %}
-{% for member in site.data.students %}
+{% for member in site.data.Undergraduate_students %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
@@ -215,9 +215,8 @@ permalink: /team/
 
 <div class="col-sm-6 clearfix">
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}<br>email: <{{ member.email }}></i>
+ <i>{{ member.info }}<br><!--  email: <{{ member.email }}></i> -->
   <ul style="overflow: hidden">
-
   {% if member.number_educ == 1 %}
   <li> {{ member.education1 }} </li>
   {% endif %}
@@ -270,7 +269,7 @@ permalink: /team/
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}<br>email: <{{ member.email }}></i>
+<i>{{ member.info }}<br> <!--   email: <{{ member.email }}></i> -->
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
@@ -319,7 +318,7 @@ permalink: /team/
 </div>
 {% endif %}
 
-
+<!--
 <table align="center" style="width:100%">
 <tr><th>Visitors</th>
     <th>Master Students</th>
@@ -364,7 +363,8 @@ permalink: /team/
   <tr>
     <td></td>
     <td></td>
-    <td>Daniëlle van Klink, Spring 2016</td>-->
+    <td>Daniëlle van Klink, Spring 2016</td>
   </tr>
 </table>
+-->
 <br>

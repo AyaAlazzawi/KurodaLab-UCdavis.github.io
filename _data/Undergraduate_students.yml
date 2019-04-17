@@ -7,16 +7,16 @@
 #  education2:
 #  education3:
 #  education4:
-- name:
-  photo: rock.jpg
-  info:
+- name: Kelly Colbert
+  photo:
+  info: Undergraduate Student
   email:
   number_educ:
   education1:
 
-- name:
+- name: Theodore (Teddy) Gong
   photo:
-  info:
-  email: 
+  info: Undergraduate Student
+  email:
   number_educ: 0
   education1:

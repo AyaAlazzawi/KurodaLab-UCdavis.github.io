@@ -1,15 +1,15 @@
 - name: Marcelo J. Kuroda MD,PhD
   photo: Marcelo.jpg
-  info: Professor of Anatomy, SVM <br />Center for Comparative Medicine<br />Leader of Infectious Disease Unit, California National Primate Research Center
+  info: Professor of , Physiology and Cell Biology <br />Center for Comparative Medicine, School of Veterinary Medicine and<br />Leader of Infectious Disease Unit, California National Primate Research Center
   email: mjkuroda@ucdavis.edu
-  number_educ: 1
+  number_educ: 0
   education1:
 
 - name: Elizebeth S. Didier PhD
   photo: Liz.png
-  info: Research Immunologist
+  info: Professional Research Immunologist <br />Center for Comparative Medicine, School of Veterinary Medicine and<br />California National Primate Research Center
   email: esdidier@ucdavis.edu
-  number_educ: 4
+  number_educ: 0
   education1: Post-doctoral, New York University Medical Center, New York, New York
   education2: PhD, University of Texas Southwestern Medical Center, Dallas, Texas
   education3: MS, Western Kentucky University, Bowling Green, Kentucky
