@@ -53,6 +53,7 @@ permalink: /publications/
 
 
 ## Full List
+#### **_Full publications list can be found here for [MJ Kuroda](http://www.ncbi.nlm.nih.gov/sites/myncbi/marcelo.kuroda.1/bibliography/43979787/public/?sort=date&direction=descending) and [ES Didier](http://www.ncbi.nlm.nih.gov/sites/myncbi/elizabeth.didier.1/bibliography/44037639/public/?sort=date&direction=descending)_**
 
 {% for publi in site.data.publist %}
 
