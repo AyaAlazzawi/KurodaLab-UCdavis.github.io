@@ -1,16 +1,18 @@
-- name: Marcelo J. Kuroda MD,PhD
+- name: Marcelo J. Kuroda M.D., Ph.D.
   photo: MarceloKuroda2019.jpg
   info: Professor of , Physiology and Cell Biology <br />Center for Comparative Medicine, School of Veterinary Medicine and<br />Leader of Infectious Disease Unit, California National Primate Research Center
   email: mjkuroda@ucdavis.edu
-  number_educ: 0
-  education1:
+  number_educ: 3
+  education1: Determining the role of monocyte/macrophages in the pathogenesis of infectious diseases, chronic inflammation and aging
+  education2: Examining the immunology of aging
+  education3: Assessing the roles of macrophages in the pathogenesis of TB using the macaque model of TB/SIV.
 
-- name: Elizabeth S. Didier PhD
+- name: Elizabeth S. Didier Ph.D.
   photo: ElizabethDidier2019.jpg
   info: Professional Research Immunologist <br />Center for Comparative Medicine, School of Veterinary Medicine and<br />California National Primate Research Center
   email: esdidier@ucdavis.edu
-  number_educ: 0
-  education1: Post-doctoral, New York University Medical Center, New York, New York
-  education2: PhD, University of Texas Southwestern Medical Center, Dallas, Texas
-  education3: MS, Western Kentucky University, Bowling Green, Kentucky
-  education4: BS, Denison University, Granville, Ohio
+  number_educ: 2
+  education1: The contributions of myeloid cells to natural aging in the rhesus macaque model
+  education2: The accelerated aging that occurs in SIV-infected rhesus macaques as a model for HIV infections of humans
+  education3:
+  education4:
