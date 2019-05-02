@@ -15,7 +15,7 @@ description: > # this means to ignore newlines until "baseurl:"
 
 
 baseurl: ""
-url: ""
+url: "https://kurodalab-ucdavis.github.io/"
 
 include:
   - .htaccess
@@ -31,7 +31,9 @@ lsi: false
 excerpt_separator: "\n\n"
 incremental: false
 
-
+#add sitemap to website
+plugins:
+  - jekyll-sitemap
 
 # Markdown Processing
 kramdown:
