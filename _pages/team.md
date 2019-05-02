@@ -8,7 +8,8 @@ permalink: /team/
 
 # Kuroda Lab
 
- <!-- **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**-->
+ <!-- **add group pictures** ![grouppic]()
+-->
 
 ## Principle Investigators
 {% assign number_printed = 0 %}
