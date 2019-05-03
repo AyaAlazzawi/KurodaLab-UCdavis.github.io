@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: The Kuroda Lab
+title: Kuroda Lab @ UC Davis
 email: ziyuanhe.hzy@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Kuroda Lab @ UC Davis
@@ -16,6 +16,7 @@ description: > # this means to ignore newlines until "baseurl:"
 
 baseurl: ""
 url: "https://kurodalab-ucdavis.github.io/"
+logo: /images/logopic/CCM.png
 
 include:
   - .htaccess
@@ -34,6 +35,7 @@ incremental: false
 #add sitemap to website
 plugins:
   - jekyll-sitemap
+  - jekyll-seo-tag
 
 # Markdown Processing
 kramdown:
